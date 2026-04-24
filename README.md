@@ -1,6 +1,5 @@
 # playwright-bdd-framework
 # Playwright BDD Automation Framework - Mahesh D
-# Playwright BDD Automation Framework
 
 ## 🚀 Tech Stack
 - Playwright (UI Automation)
